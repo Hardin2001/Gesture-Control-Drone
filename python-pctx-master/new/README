@@ -1,0 +1,50 @@
+This is a Python wrapper for the Endurance PCTx driver (in C++) for Linux,
+which is originally written by Wade Smith. The files have been slightly
+modified to ensure compatibility with Python. An original copy of the C++
+driver is available at:
+    
+    https://launchpad.net/pctxdriver
+    http://www.endurance-rc.com/software.php#clinux
+  
+
+====== Required Packages ======
+
+  - SWIG (tested under 1.3)
+  - libusb-1.0-dev
+  - Python setuptools
+
+Under Ubuntu Linux 10.04 LTS (Lucid), they can be obtained by:
+    
+  $ apt-get install swig libusb-1.0-0-dev python-setuptools
+
+====== Installation ======
+
+To install:
+
+  $ python setup.py install
+
+To run the test programs:
+
+  $ make (this for C/C++ only)
+  $ ./pctx_test (in C/C++)
+  $ python pctx_test.py (in Python)
+
+
+====== Set permissions to PCTx automatically ======
+
+Normally, the PCTx is only writable with root privilege, which is not
+convenient to use. One quick fix is to run the following every time the
+PCTx is plugged in:
+
+  $ chmod 777 /dev/bus/usb/00?/00?
+
+You will need to replace the above with the correct bus and device ID,
+which can be found by running "lsusb".
+
+Another more efficient way is to set up a udev rule. You can copy
+"pctx.rules" that comes with the driver to the udev rule directory, and
+then reload the rules:
+ 
+  $ cp pctx.rules /etc/udev/rules.d/
+  $ udevadm control --reload-rules
+ 
