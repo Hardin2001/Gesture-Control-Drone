@@ -1,0 +1,17 @@
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\bin\Debug\CSharp_PCTx_Sample.exe
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\bin\Debug\CSharp_PCTx_Sample.pdb
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Example.csprojAssemblyReference.cache
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\GenericHid.FrmMain.resources
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.Properties.Resources.resources
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Example.csproj.GenerateResource.cache
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.exe
+C:\Users\xilim\OneDrive\ECS 193\新建文件夹\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.pdb
+G:\Sigmoid_GCD\C#_PCTx_Sample\bin\Debug\CSharp_PCTx_Sample.exe
+G:\Sigmoid_GCD\C#_PCTx_Sample\bin\Debug\CSharp_PCTx_Sample.pdb
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Example.csprojAssemblyReference.cache
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\GenericHid.FrmMain.resources
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.Properties.Resources.resources
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Example.csproj.GenerateResource.cache
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Example.csproj.CoreCompileInputs.cache
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.exe
+G:\Sigmoid_GCD\C#_PCTx_Sample\obj\Debug\CSharp_PCTx_Sample.pdb

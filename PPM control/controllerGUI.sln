@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "controllerGUI", "controllerGUI.vcxproj", "{20414F5A-683B-4EC9-880C-623F5D24C87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20414F5A-683B-4EC9-880C-623F5D24C87B}.Debug|x86.ActiveCfg = Debug|Win32
+		{20414F5A-683B-4EC9-880C-623F5D24C87B}.Debug|x86.Build.0 = Debug|Win32
+		{20414F5A-683B-4EC9-880C-623F5D24C87B}.Release|x86.ActiveCfg = Release|Win32
+		{20414F5A-683B-4EC9-880C-623F5D24C87B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2082669-3F7C-4E71-8168-25298E8421FD}
+	EndGlobalSection
+EndGlobal
